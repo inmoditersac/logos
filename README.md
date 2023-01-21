@@ -2,17 +2,39 @@
 
 
 ## 💠 **Inmoditer Box**
-<img src="boxlogobottom.svg" width='212'/>
-<img src="boxlogobluebottom.svg"/>
-<img src="boxlogograybottom.svg"/>
-<img src="boxlogowhitebottom.svg"/>
-<img src="boxlogoredbottom.svg"/>
-<img src="boxlogopinkbottom.svg"/>
+
+<table style="width:100%">
+  <tr>
+    <th><img src="boxlogobottom.svg" width='212'/></th>
+    <th><img src="boxlogobluebottom.svg"/></th>
+    <th><img src="boxlogograybottom.svg"/></th>
+  </tr>
+  <tr>
+    <td><img src="boxlogowhitebottom.svg"/></td>
+    <td><img src="boxlogoredbottom.svg"/></td>
+    <td><img src="boxlogopinkbottom.svg"/></td>
+  </tr>
+</table>
 
 ## 💠 **Inmoditer Hexagon**
-<img src="hexalogo.svg"/>
-<img src="hexalogoblue.svg"/>
-<img src="hexalogogray.svg"/>
-<img src="hexalogowhite.svg"/>
-<img src="hexalogored.svg"/>
-<img src="hexalogopink.svg"/>
+
+
+<table style="width:100%">
+  <tr>
+    <th><img src="hexalogo.svg" width='212'/></th>
+    <th><img src="hexalogoblue.svg"/></th>
+    <th><img src="hexalogogray.svg"/></th>
+  </tr>
+  <tr>
+    <td><img src="hexalogowhite.svg"/></td>
+    <td><img <img src="hexalogored.svg"/></td>
+    <td><img src="hexalogopink.svg"/></td>
+  </tr>
+
+
+
+
+
+
+
+
